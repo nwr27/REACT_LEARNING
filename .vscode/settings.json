@@ -2,4 +2,5 @@
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 500,
     "editor.formatOnPaste": true,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "Chrome"
 }
