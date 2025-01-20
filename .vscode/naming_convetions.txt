@@ -1,0 +1,24 @@
+Naming conventions by NWR:
+- Workspace : CAPITAL_WITH_UNDERSCORE
+- Sub folder : lowercase with space
+- Special folder : _underscore_begins_and_with_underscore
+- Code file name : CamelCase.extension
+- Common file name : lowercase_with_underscore.extension
+- Special file name : _underscore_begins_with_underscore.extension
+- Class : CamelCase
+- Variabel : snake_case
+- Unused variabel : _
+- Special variable : _underscore_begins
+- Constant : UPPERCASE_WITH_UNDERSCORE
+
+folder in my sourcecode:
+- src
+- images
+- videos
+- data
+- resources
+- models
+- run
+- assets
+- .vscode
+- .venv
