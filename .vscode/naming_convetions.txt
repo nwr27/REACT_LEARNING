@@ -1,11 +1,12 @@
 Naming conventions by NWR:
 - Workspace : CAPITAL_WITH_UNDERSCORE
+- Folder project : just-lowercase
 - Sub folder : lowercase with space
 - Special folder : _underscore_begins_and_with_underscore
 - Code file name : CamelCase.extension
 - Common file name : lowercase_with_underscore.extension
 - Special file name : _underscore_begins_with_underscore.extension
-- Class : CamelCase
+- Class : camelCase
 - Variabel : snake_case
 - Unused variabel : _
 - Special variable : _underscore_begins
